@@ -5,7 +5,6 @@ import "./Teachers.css"
 
 const Teachers = (props) => {
     const { name, position, faculty, email, salary, img } = props.teacher
-    const element = <FontAwesomeIcon icon={faCoffee} />
     return (
         <div className="card-style">
             <img src={img} alt="" />
