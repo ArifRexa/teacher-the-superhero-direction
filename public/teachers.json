@@ -1,0 +1,146 @@
+[
+    {
+        "id": 12001,
+        "name": "Sarah Dimick",
+        "position": "Assistant Professor of English",
+        "faculty": "Department of English, Faculty of Arts and Sciences",
+        "email": "sanielleallen@fas.harvard.edu",
+        "salary": 21000,
+        "img": "https://hwpi.harvard.edu/files/styles/profile_full/public/faculty-diversity/files/s_dimick.jpg?m=1601307790&itok=etJMWg71"
+    },
+    {
+        "id": 12002,
+        "name": "Ruth Franklin",
+        "position": "Assistant Professor of Stem Cell and Regenerative Biology",
+        "faculty": "Department of Stem Cell and Regenerative Biology, Faculty of Arts and Sciences",
+        "email": "runielleallen@fas.harvard.edu",
+        "salary": 20900,
+        "img": "https://hwpi.harvard.edu/files/styles/profile_full/public/faculty-diversity/files/r_franklin.jpg?m=1600952933&itok=sp87WRss"
+    },
+    {
+        "id": 12003,
+        "name": "Mark L. Hatzenbuehler",
+        "position": "John L. Loeb Associate Professor of the Social Sciences",
+        "faculty": "Department of Psychology, Faculty of Arts and Sciences",
+        "email": "hatnielleallen@fas.harvard.edu",
+        "salary": 200000,
+        "img": "https://static.hwpi.harvard.edu/files/styles/profile_full/public/faculty-diversity/files/m_hatzenbuehler.jpg?m=1600952959&itok=ZWvpwd5d"
+    },
+    {
+        "id": 12004,
+        "name": "David Joselit",
+        "position": "Professor of Art, Film, and Visual Studies",
+        "faculty": "Department of Art, Film, and Visual Studies, Faculty of Arts and Sciences",
+        "email": "davidelleallen@fas.harvard.edu",
+        "salary": 20000,
+        "img": "https://hwpi.harvard.edu/files/styles/profile_full/public/faculty-diversity/files/d_joselit.jpg?m=1601145980&itok=vjM_c0iu"
+    },
+    {
+        "id": 12005,
+        "name": "Mihnea Popa",
+        "position": "Professor of Mathematics",
+        "faculty": "Department of Mathematics, Faculty of Arts and Sciences",
+        "email": "popanielleallen@fas.harvard.edu",
+        "salary": 100000,
+        "img": "https://static.hwpi.harvard.edu/files/styles/profile_full/public/faculty-diversity/files/m_popa.jpg?m=1600890822&itok=iEqyERnx"
+    },
+    {
+        "id": 12006,
+        "name": "Namwali Serpell",
+        "position": "Professor of English",
+        "faculty": "Department of English",
+        "email": "serpelnielleallen@fas.harvard.edu",
+        "salary": 90000,
+        "img": "https://static.hwpi.harvard.edu/files/styles/profile_full/public/faculty-diversity/files/n_serpell.jpg?m=1628080350&itok=L9SCAi-O"
+    },
+    {
+        "id": 12007,
+        "name": "Melanie Wood",
+        "position": "Professor of Mathematics",
+        "faculty": "Department of Mathematics",
+        "email": "woodanielleallen@fas.harvard.edu",
+        "salary": 890000,
+        "img": "https://static.hwpi.harvard.edu/files/styles/profile_full/public/faculty-diversity/files/m_wood.jpg?m=1600894335&itok=UIRx1JP_"
+    },
+    {
+        "id": 12008,
+        "name": "David Yang",
+        "position": "Assistant Professor of Economics",
+        "faculty": "Department of Economics",
+        "email": "yanglen@fas.harvard.edu",
+        "salary": 70000,
+        "img": "https://static.hwpi.harvard.edu/files/styles/profile_full/public/faculty-diversity/files/d_yang.jpg?m=1600891154&itok=hAwXfZbM"
+    },
+    {
+        "id": 12009,
+        "name": "James Riley",
+        "position": "Assistant Professor of Business Administration",
+        "faculty": "Department of Business Administration",
+        "email": "jemselleallen@fas.harvard.edu",
+        "salary": 80000,
+        "img": "https://static.hwpi.harvard.edu/files/styles/profile_full/public/faculty-diversity/files/j_riley.jpg?m=1601565304&itok=H15GjcAv"
+    },
+    {
+        "id": 12010,
+        "name": "Maria Roche",
+        "position": "Assistant Professor of Business Administration",
+        "faculty": "Strategy Unit, Harvard Business School",
+        "email": "rocheallen@fas.harvard.edu",
+        "salary": 130000,
+        "img": "https://static.hwpi.harvard.edu/files/styles/profile_full/public/faculty-diversity/files/m_roche.jpg?m=1600891416&itok=iA8xOJsB"
+    },
+    {
+        "id": 12011,
+        "name": "Marlous van Waijenburg",
+        "position": "Assistant Professor",
+        "faculty": "Business, Government, and International Economy Unit, Harvard Business School",
+        "email": "vananielleallen@fas.harvard.edu",
+        "salary": 200000,
+        "img": "https://static.hwpi.harvard.edu/files/styles/profile_full/public/faculty-diversity/files/m_van_waijenburg.jpg?m=1600891438&itok=2_sR2iY3"
+    },
+    {
+        "id": 12012,
+        "name": "Jaya Wen",
+        "position": "Assistant Professor",
+        "faculty": "Business, Government and the International Economy Unit, Harvard Business School",
+        "email": "wenleallen@fas.harvard.edu",
+        "salary": 78000,
+        "img": "https://static.hwpi.harvard.edu/files/styles/profile_full/public/faculty-diversity/files/j_wen.jpg?m=1600894346&itok=U_lQPmHv"
+    },
+    {
+        "id": 12013,
+        "name": "Teren Sevea",
+        "position": "Assistant Professor of Islamic Studies",
+        "faculty": "Harvard Divinity School",
+        "email": "tarenleallen@fas.harvard.edu",
+        "salary": 56000,
+        "img": "https://static.hwpi.harvard.edu/files/styles/profile_full/public/faculty-diversity/files/t_sevea.png?m=1600894743&itok=5VfKp8fN"
+    },
+    {
+        "id": 12014,
+        "name": "Alexandra Natapoff",
+        "position": "Lee S. Kreindler Professor of Law",
+        "faculty": "Department of Harvard Law School",
+        "email": "natapoielallen@fas.harvard.edu",
+        "salary": 190000,
+        "img": "https://static.hwpi.harvard.edu/files/styles/profile_full/public/faculty-diversity/files/a_natapoff.jpg?m=1600894005&itok=fvrjMqyZ"
+    },
+    {
+        "id": 12015,
+        "name": "Nicholas Stephanopoulos",
+        "position": "Professor of Law",
+        "faculty": "Department of Harvard Law School",
+        "email": "necolaleallen@fas.harvard.edu",
+        "salary": 30000,
+        "img": "https://static.hwpi.harvard.edu/files/styles/profile_full/public/faculty-diversity/files/n_stephanopoulos.jpg?m=1600893966&itok=M1tzwuxk"
+    },
+    {
+        "id": 12016,
+        "name": "Marinka Zitnik",
+        "position": "Assistant Professor",
+        "faculty": "Department of Biomedical Informatics, Harvard Medical School",
+        "email": "marinkaanielleallen@fas.harvard.edu",
+        "salary": 150000,
+        "img": "https://static.hwpi.harvard.edu/files/styles/profile_full/public/faculty-diversity/files/m_zitnik.jpg?m=1603720212&itok=XHqclpDO"
+    }
+]
